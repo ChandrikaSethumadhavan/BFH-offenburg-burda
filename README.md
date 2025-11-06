@@ -78,9 +78,9 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 
 ##  Team
 
-- Muthu
-- Chandrika
-- Edwin
+- Muthu Sai Charan, FAU Erlangen-Nurnberg
+- Chandrika, University of Freiburg
+- Edwin, University of Offenburg
 
 ## 🏆 Acknowledgments
 
