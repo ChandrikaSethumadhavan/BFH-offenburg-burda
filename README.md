@@ -42,7 +42,7 @@ Monkey wants to make classic Goulash with minced beef but cares about the enviro
 - Multi-objective optimization algorithms
 
 
-## 🔮 Future Roadmap
+## Future Roadmap
 
 - [ ] Expand database with curated food-based carbon emissions data
 - [ ] Increase parameters for multi-objective optimization
@@ -51,7 +51,7 @@ Monkey wants to make classic Goulash with minced beef but cares about the enviro
 - [ ] Community recipe sharing
 
 
-## 🚦 Getting Started
+## Getting Started
 
 ```bash
 # Clone the repository
@@ -72,8 +72,6 @@ npm start
 ##  Contributing
 
 We welcome contributions! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-##  License
 
 
 ##  Team
