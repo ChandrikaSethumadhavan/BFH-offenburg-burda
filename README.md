@@ -1,5 +1,9 @@
 # Meals or Miles: Recipe Carbon Footprint Analyzer
 
+
+![co2emission-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6bb59c3f-960b-4c93-ac6b-c032a44eb630)
+
+
 > How Much Does Your Food Really Emit?
 
 **Black Forest Hackathon, Offenburg 2025**
