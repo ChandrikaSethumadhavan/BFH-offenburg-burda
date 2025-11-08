@@ -1,7 +1,11 @@
 # Meals or Miles: Recipe Carbon Footprint Analyzer
 
 
-![co2emission-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6bb59c3f-960b-4c93-ac6b-c032a44eb630)
+
+Test with video for quality
+
+https://github.com/user-attachments/assets/48e07576-747c-44e5-95b3-76ff6d786dbb
+
 
 
 > How Much Does Your Food Really Emit?
