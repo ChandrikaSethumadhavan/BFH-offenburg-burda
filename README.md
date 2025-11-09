@@ -2,7 +2,7 @@
 
 
 
-Test with video for quality
+Prototype with PyQt:
 
 https://github.com/user-attachments/assets/48e07576-747c-44e5-95b3-76ff6d786dbb
 
