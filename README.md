@@ -63,7 +63,7 @@ Monkey wants to make classic Goulash with minced beef but cares about the enviro
 
 ```bash
 # Clone the repository
-git clone [https://github.com/ChandrikaSethumadhavan/meal-emission-tracker.git]
+git clone https://github.com/ChandrikaSethumadhavan/meal-emission-tracker.git
 
 # Navigate to project directory
 cd meal-emission-tracker
