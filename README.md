@@ -1,4 +1,4 @@
-# Meals or Miles: Recipe Carbon Footprint Analyzer
+# Meal-Emission-Tracker: Recipe Carbon Footprint Analyzer
 
 
 
@@ -63,16 +63,16 @@ Monkey wants to make classic Goulash with minced beef but cares about the enviro
 
 ```bash
 # Clone the repository
-git clone https://github.com/randomwordgenerator/meals-or-miles.git
+git clone [https://github.com/ChandrikaSethumadhavan/meal-emission-tracker.git]
 
 # Navigate to project directory
-cd meals-or-miles
+cd meal-emission-tracker
 
 # Install dependencies
-npm install
+pip install -r requirements.txt
 
 # Run the application
-npm start
+python co2_ui.py
 ```
 
 
